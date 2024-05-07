@@ -2,7 +2,7 @@
 ## Tutorial 3: WebChat using yew
 
 ### 3.1. Original code
-![alt text](image.png)
+![alt text](image.jpg)
 
 ## 3.2. Add some creativities to the webclient
 ![alt text](image1.png)
